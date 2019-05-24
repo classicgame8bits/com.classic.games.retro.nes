@@ -1,0 +1,18 @@
+{
+  "packageName": "com.classic.games.retro.nes",
+  "forceUpdate": false,
+  "forceUpdateUrl": "market://details?id=com.classic.games.retro.nes",
+  "checkClone": false,
+  "reviewVersion": -1,
+  "showNESGamesTimeDelay": 0.035,
+  "adsNetwork": 0,
+  "adsType": 1,
+  "showNewGames": false,
+  "newGames": [
+    {
+      "name": "Pokemon Race",
+      "imgUrl": "https://raw.githubusercontent.com/classicgame8bits/com.classic.games.retro.nes/master/new_game_monsterrace.jpg",
+      "downloadUrl": "market://details?id=com.classic.game.monsterrace"
+    }
+  ]
+}
