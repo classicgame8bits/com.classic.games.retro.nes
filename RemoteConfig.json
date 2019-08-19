@@ -1,6 +1,7 @@
 {
   "packageName": "com.classic.games.retro.nes",
   "forceUpdate": true,
+  "forceUpdateContent": "New version is available on Store!\nUpdate it for more games!",
   "forceUpdateUrl": "market://details?id=com.classic.games.retro.emulator.nes",
   "checkClone": false,
   "reviewVersion": -1,
