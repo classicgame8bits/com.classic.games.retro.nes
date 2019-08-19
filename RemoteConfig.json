@@ -1,7 +1,7 @@
 {
   "packageName": "com.classic.games.retro.nes",
-  "forceUpdate": false,
-  "forceUpdateUrl": "market://details?id=com.classic.games.retro.nes",
+  "forceUpdate": true,
+  "forceUpdateUrl": "market://details?id=com.classic.games.retro.emulator.nes",
   "checkClone": false,
   "reviewVersion": -1,
   "showNESGamesTimeDelay": 0,
