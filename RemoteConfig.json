@@ -8,12 +8,12 @@
   "showNESGamesTimeDelay": 0,
   "adsNetwork": 0,
   "adsType": 1,
-  "showNewGames": false,
+  "showNewGames": true,
   "newGames": [
     {
-      "name": "Pokemon Race",
-      "imgUrl": "https://raw.githubusercontent.com/classicgame8bits/com.classic.games.retro.nes/master/new_game_monsterrace.jpg",
-      "downloadUrl": "market://details?id=com.classic.game.monsterrace"
+      "name": "",
+      "imgUrl": "https://raw.githubusercontent.com/classicgame8bits/classic.game.retro.emulator.nes/master/big_update.jpg",
+      "downloadUrl": "market://details?id=classic.retro.nostalgia.nes"
     }
   ]
 }
